@@ -8,10 +8,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-amitnos7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amitnos7)
 
 ---
-
 ## 👋 About Me
+Passionate and motivated Practical Software Engineer with hands-on training from the Technion. I thrive on turning ideas into functional applications and am constantly expanding my knowledge in modern web technologies and software development best practices. 
 
-Aspiring Practical Software Engineer trained at the Technion with a strong passion for technology and continuous learning. Currently building foundational skills in software development, programming languages, and problem-solving. Eager to apply knowledge in real-world projects.
+With a solid foundation in full-stack development and a genuine enthusiasm for solving real-world problems, I’m excited to bring my skills to impactful projects and grow within a dynamic engineering environment.
 
 ---
 
