@@ -16,5 +16,6 @@ Aspiring Practical Software Engineer trained at the Technion with a strong passi
 ---
 
 ## 🛠️ Skills & Technologies
+Java          ██████████░░  85% Python        ████████░░░░  75% JavaScript    ████████░░░░  78% C#            ██████░░░░░░  65% SQL           █████████░░░  82%
 
 ### Programming Languages
